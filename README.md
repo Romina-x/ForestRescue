@@ -11,7 +11,7 @@
 ### **Step 2: Extract the Files**  
 1. Unzip the `ForestRescue_Game.zip` file.  
 3. Inside, you'll find **two folders**, the windows version and mac version.
-4. Open the version you need, and you'll find the application inside!
+4. Unzip the version you need, and you'll find the application inside!
 
 --- 
 
