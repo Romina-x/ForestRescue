@@ -4,7 +4,7 @@
 
 ### **Step 1: Download the Game**  
 1. Go to the **[Latest Release](https://github.com/Romina-x/ForestRescue/releases/tag/Release-0.1)** page.  
-2. Click on **"ForestRescue_Game.zip"** to download the game package.  
+2. Click on **"SourceCode.zip"** to download the game package.  
 
 ---
 
