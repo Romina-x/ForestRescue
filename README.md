@@ -21,3 +21,15 @@ I'm collecting feedback to discuss in my final report, please fill out this form
 
 You can also report any bugs you find here: ➡️ **[Bug Report Form](https://docs.google.com/forms/d/1C2DCYjMNWSjHBqWtp8T-Iw0YDlmQlC47mu9CCe_cVSs/edit)**
 
+---
+
+## How To Play 
+You can connect a controller to your PC via bluetooth or a wired connection and it will automatically connect to the game when running.
+| Action          | Keyboard       | Game Controller        |
+|------------------|-------------------------|---------------------------|
+| Move            | W/A/S/D                 | Left Stick             |
+| Jump            | Spacebar                | Button South                  |
+| Run             | Left Shift (Hold)       | Left Shoulder (Hold)   |
+| Attack          | Left Mouse Button       | Button West                  |
+
+
